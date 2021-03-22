@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kinzo @kinzojusti
 - 👀 I’m interested in ... coding, front-end, Back-end coding, Design
-- 🌱 I’m currently learning ... NodeJS, Java, Python
+- 🌱 I’m currently learning ... NodeJS, Java, Javascript, Python
 - 💞️ I’m looking to collaborate on ... designs, and teambuilding for front end and back end design
 - 📫 How to reach me ... email!
 
