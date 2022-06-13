@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kinzo @kinzojusti
-- 👀 I’m interested in ... coding, front-end, Back-end coding, Design
-- 🌱 I’m currently learning ... NodeJS, Java, Javascript, Python, react, redux
-- 💞️ I’m looking to collaborate on ... designs, and teambuilding for front end and back end development. 
+- 👋 Hi, I’m Jesse @kinzojusti
+- 👀 I’m interested in ... coding, front-end, Ui Design, full-stack development.
+- 🌱 I’m currently using, learning and always improving ...JavaScript, React,  NodeJS, Ruby, Rails, Redux
+- 💞️ I’m looking to collaborate on ... designs, projects, apps, and teambuilding for front end and back end development. 
 - 📫 How to reach me ... email!
 
 <!---
